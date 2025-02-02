@@ -1,4 +1,4 @@
-## Hi there
+# Hi there
 
-## A bit about me
+# A bit about me
 text text text
