@@ -1,3 +1,3 @@
-## Hi there 👋
+## Hi there
 
-text
+## A bit about me
