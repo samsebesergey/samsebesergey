@@ -3,5 +3,4 @@
 ### A bit about me
 text text text
 
-![gopher](https://github.com/user-attachments/assets/fbe9c0aa-1b34-4c91-873f-0218313092f2)
-
+![gopher](https://github.com/user-attachments/assets/44cf127f-c770-4855-906c-8dc178f8ba75)
